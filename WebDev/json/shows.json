@@ -1,0 +1,53 @@
+{
+	"shows": {
+		"House of Cards": [
+			{	
+			"id": 1,	
+			"description": "House of Cards is an American political drama web television series created by Beau Willimon. Set in present-day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and House Majority Whip.",
+			"genre": "Drama",
+			"episodeLength": "55 minutes",
+			"averageRating": 0
+			}
+		],
+		"The Shield": [
+			{
+			"id": 2, 
+			"description": "The Shield is an American crime drama television series starring Michael Chiklis. The story is shows the lives and cases of a corrupted LAPD cop and the police unit under his command", 
+			"genre": "Crime, Drama, Thriller", 
+			"episodeLength": "47 minutes", 
+			"averageRating": 0
+			}
+		],
+		"Breaking Bad": [
+			{"id": 3, "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.", "genre": "Drama", "episodeLength": "55 minutes", "averageRating": 0}
+		],
+		"The Walking Dead": [
+			{"id": 4, 
+			"description": "Waking up in an empty hospital after weeks in a coma, County Sheriff Rick Grimes (Andrew Lincoln) finds himself utterly alone. The world as he knows it is gone, ravaged by a zombie epidemic. The Walking Dead tells the story of the weeks and months that follow after the apocalypse.", 
+			"genre": "Drama, Horror, Thriller",
+			"episodeLength": "44 minutes", 
+			"averageRating": 0}
+		],
+		"Sons of Anarchy": [
+			{"id": 5, "description": "Sons of Anarchy. Sons of Anarchy is an American crime drama television series created by Kurt Sutter. It follows the lives of a close-knit outlaw motorcycle club operating in Charming, a fictional town in California's Central Valley.", "genre": "Crime, Drama, Thriller", "episodeLength": "45 minutes", "averageRating": 0}
+		],
+		"Stranger Things": [
+			{"id": 6, "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.", "genre": "Drama, Fantasy, Horror", "episodeLength": "55 minutes", "averageRating": 0}
+		],
+		"Better Call Saul": [
+			{"id": 7, "description": "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.", "genre": "Crime, Drama", "episodeLength": "46 minutes", "averageRating": 0}
+		
+		],
+		"The IT Crowd": [
+			{"id": 8, "description": "The comedic adventures of a rag-tag group of technical support workers at a large corporation.", "genre": "Comedy", "episodeLength": "25 minutes", "averageRating": 0}
+		
+		],
+		"Mr. Robot": [ 
+			{"id": 9, "description": "Mr.Robot follows Elliot, a young programmer working as a cyber-security engineer by day, and a vigilante hacker by night.", "genre": "Crime, Drama, Thriller", "episodeLength": "49 minutes", "averageRating": 0}
+		
+		],
+		"Rick and Morty": [
+			{"id": 10, "description": "An animated series that follows the exploits of a super scientist and his not so bright grandson.", "genre": "Animation, Adventure, Comedy", "episodeLength": "22 minutes", "averageRating": 0}
+		]
+	}
+}

@@ -1,0 +1,45 @@
+[
+	{
+			"id": 1,	
+			"showName": "House of Cards",
+			"description": "Set in present-day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and House Majority Whip.",
+			"genre": "Drama",
+			"episodeLength": "55 minutes",
+			"image": "img/thumbnail_house_of_cards.jpg"
+			},
+			{
+			"id": 2, 
+			"showName": "The Shield",
+			"description": "The Shield is an American crime drama television series starring Michael Chiklis. The story is shows the lives and cases of a corrupted LAPD cop and the police unit under his command", 
+			"genre": "Crime, Drama, Thriller", 
+			"episodeLength": "47 minutes", 
+			"image": "img/thumbnail_the_shield.jpg"
+			},
+			{
+			"id": 3, 
+			"showName": "Breaking Bad", 
+			"description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.", 
+			"genre": "Drama", 
+			"episodeLength": "55 minutes", 
+			"image": "img/thumbnail_breaking_bad.jpg"
+			},
+			{"id": 4, 
+			"showName": "The Walking Dead",
+			"description": "Waking up in an empty hospital after weeks in a coma, County Sheriff Rick Grimes (Andrew Lincoln) finds himself utterly alone. The world as he knows it is gone, ravaged by a zombie epidemic. The Walking Dead tells the story of the weeks and months that follow after the apocalypse.", 
+			"genre": "Drama, Horror, Thriller",
+			"episodeLength": "44 minutes", 
+			"image": "img/thumbnail_the_walking_dead.jpg"
+			},
+			{"id": 5, 
+			"showName": "Sons of Anarchy",
+			"description": "Sons of Anarchy. Sons of Anarchy is an American crime drama television series created by Kurt Sutter. It follows the lives of a close-knit outlaw motorcycle club operating in Charming, a fictional town in California's Central Valley.", 
+			"genre": "Crime, Drama, Thriller", 
+			"episodeLength": "45 minutes", 
+			"image": "img/thumbnail_sons_of_anarchy.jpg"
+			},
+			{"id": 6, "showName": "Stranger Things", "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.", "genre": "Drama, Fantasy, Horror", "episodeLength": "55 minutes", "image": "img/thumbnail_stranger_things.jpg"},
+			{"id": 7, "showName": "Better Call Saul", "description": "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.", "genre": "Crime, Drama", "episodeLength": "46 minutes", "image": "img/thumbnail_better_call_saul.jpg"},
+			{"id": 8, "showName": "IT Crowd", "description": "The comedic adventures of a rag-tag group of technical support workers at a large corporation.", "genre": "Comedy", "episodeLength": "25 minutes", "averageRating": 0, "image": "img/thumbnail_it_crowd.jpg"},
+			{"id": 9, "showName": "Mr. Robot", "description": "Mr.Robot follows Elliot, a young programmer working as a cyber-security engineer by day, and a vigilante hacker by night.", "genre": "Crime, Drama, Thriller", "episodeLength": "49 minutes", "image": "img/thumbnail_mr_robot.jpg"},
+			{"id": 10, "showName": "Rick and Morty", "description": "An animated series that follows the exploits of a super scientist and his not so bright grandson.", "genre": "Animation, Adventure, Comedy", "episodeLength": "22 minutes", "image": "img/thumbnail_rick_and_morty.jpg"}
+]

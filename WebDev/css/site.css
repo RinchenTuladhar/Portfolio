@@ -1,0 +1,38 @@
+/*
+* - MENU -
+* 
+* 1. Navigation Bar
+*/
+
+/* - NAVIGATION BAR */
+
+.navbar-inverse {
+	background-color: rgb(168, 24, 28);
+    border: 0;
+    border-radius: 0px;
+}
+
+.navbar-inverse .navbar-toggle {
+	border-color: transparent;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav li a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+	color: #cac7c7;
+}
+.navbar-inverse .navbar-nav .active a {
+	background-color: #719F16;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: #719F16;
+}
+
+/* - CAROUSEL */
+#myCarousel {
+    max-height: 420px;
+    overflow: hidden;
+}
